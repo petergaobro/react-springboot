@@ -1,0 +1,6 @@
+*.iml
+.gradle/
+client/build/
+node_modules/
+react-app-env.d.ts
+server/build/
